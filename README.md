@@ -1,6 +1,6 @@
 # streamer
-python vod movie file streamer cherrypy
+python vod movie file streamer streaming cherrypy 
 
-Simple streamer in python.
+Simple file streamer in python.
 
 Hope it helps.
